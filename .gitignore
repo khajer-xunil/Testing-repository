@@ -1,2 +1,2 @@
-*.pyc
-.idea/
+*.pyc # Ignoruj vsechny soubory s priponou .pyc
+.idea/ # Ignoruj vsechny soubory v adresari .idea/
